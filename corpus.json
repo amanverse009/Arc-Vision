@@ -1,0 +1,135 @@
+[
+  {
+    "id": "art-14",
+    "type": "article",
+    "title": "Article 14 — Right to Equality",
+    "keywords": "equality before law, equal protection, discrimination, arbitrary state action",
+    "source_text": "Article 14 of the Constitution of India: The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. It guarantees that every person, citizen or not, is treated equally by the law, and prohibits arbitrary or discriminatory action by the State."
+  },
+  {
+    "id": "art-15",
+    "type": "article",
+    "title": "Article 15 — Prohibition of Discrimination",
+    "keywords": "discrimination, religion, race, caste, sex, place of birth, reservation",
+    "source_text": "Article 15 prohibits the State from discriminating against any citizen on grounds only of religion, race, caste, sex, or place of birth in access to shops, public restaurants, wells, roads, and places of public resort. It also permits special provisions for women, children, and socially/educationally backward classes."
+  },
+  {
+    "id": "art-19",
+    "type": "article",
+    "title": "Article 19 — Freedom of Speech and Expression",
+    "keywords": "free speech, assembly, association, movement, residence, profession, reasonable restrictions",
+    "source_text": "Article 19(1) guarantees six freedoms to citizens: speech and expression, peaceful assembly without arms, forming associations or unions, free movement throughout India, residence anywhere in India, and practising any profession or trade. These are subject to 'reasonable restrictions' the State may impose in the interest of sovereignty, public order, decency, morality, or security."
+  },
+  {
+    "id": "art-21",
+    "type": "article",
+    "title": "Article 21 — Right to Life and Personal Liberty",
+    "keywords": "life, liberty, due process, dignity, privacy, arrest, detention",
+    "source_text": "Article 21 states: No person shall be deprived of his life or personal liberty except according to procedure established by law. Through judicial interpretation this has expanded to cover the right to live with human dignity, privacy, a clean environment, health, education, and a fair, just and reasonable legal procedure."
+  },
+  {
+    "id": "art-21a",
+    "type": "article",
+    "title": "Article 21A — Right to Education",
+    "keywords": "free education, compulsory education, children 6 to 14",
+    "source_text": "Article 21A directs the State to provide free and compulsory education to all children between the ages of 6 and 14 years, in a manner the State may by law determine. This is implemented through the Right of Children to Free and Compulsory Education Act, 2009."
+  },
+  {
+    "id": "art-22",
+    "type": "article",
+    "title": "Article 22 — Protection Against Arrest and Detention",
+    "keywords": "arrest, detention, 24 hours, lawyer, magistrate, preventive detention",
+    "source_text": "Article 22 protects a person who is arrested: they must be informed of the grounds of arrest as soon as possible, have the right to consult and be defended by a legal practitioner of their choice, and must be produced before the nearest magistrate within 24 hours of arrest, excluding travel time. Separate, more limited safeguards apply for preventive detention."
+  },
+  {
+    "id": "art-32",
+    "type": "article",
+    "title": "Article 32 — Right to Constitutional Remedies",
+    "keywords": "writ, Supreme Court, habeas corpus, mandamus, enforce fundamental rights",
+    "source_text": "Article 32 gives every citizen the right to directly move the Supreme Court for enforcement of their Fundamental Rights, by way of writs including habeas corpus, mandamus, prohibition, quo warranto, and certiorari. Dr. B.R. Ambedkar called it 'the heart and soul of the Constitution.'"
+  },
+  {
+    "id": "art-39a",
+    "type": "article",
+    "title": "Article 39A — Free Legal Aid",
+    "keywords": "free legal aid, equal justice, NALSA, cannot afford lawyer",
+    "source_text": "Article 39A directs the State to secure a legal system that promotes justice on the basis of equal opportunity, and to provide free legal aid so that no citizen is denied justice due to economic or other disability. This is the constitutional basis for the National Legal Services Authority (NALSA)."
+  },
+  {
+    "id": "art-51a",
+    "type": "article",
+    "title": "Article 51A — Fundamental Duties",
+    "keywords": "fundamental duties, citizens, constitution, respect",
+    "source_text": "Article 51A lists the Fundamental Duties of every citizen, including to abide by the Constitution, respect its ideals, defend the country, promote harmony, protect the environment, and develop scientific temper. These duties are not directly enforceable in court but guide interpretation of law."
+  },
+  {
+    "id": "rti-act",
+    "type": "act",
+    "title": "Right to Information Act, 2005",
+    "keywords": "RTI, information, public authority, transparency, application, PIO",
+    "source_text": "The RTI Act, 2005 gives every citizen the right to request information from any 'public authority.' A written application (with a nominal fee, often waived for BPL applicants) is submitted to the Public Information Officer (PIO), who must respond within 30 days, or 48 hours if it concerns life or liberty. Refusal can be appealed to a First Appellate Authority and then the Information Commission."
+  },
+  {
+    "id": "pow-act",
+    "type": "act",
+    "title": "Payment of Wages Act, 1936",
+    "keywords": "unpaid salary, wages, deduction, employer, delay",
+    "source_text": "The Payment of Wages Act, 1936 requires employers to pay wages within a fixed period without unauthorised deductions. A worker who has not been paid can approach the Labour Commissioner or file a claim before the designated authority under the Act for recovery of wages plus compensation."
+  },
+  {
+    "id": "domestic-violence-act",
+    "type": "act",
+    "title": "Protection of Women from Domestic Violence Act, 2005",
+    "keywords": "domestic violence, protection order, residence order, women, abuse",
+    "source_text": "This Act allows a woman facing physical, emotional, sexual, or economic abuse in a domestic relationship to seek a Protection Officer's help, apply for protection orders, residence orders, and monetary relief through a Magistrate, without needing to file a criminal case first."
+  },
+  {
+    "id": "consumer-protection-act",
+    "type": "act",
+    "title": "Consumer Protection Act, 2019",
+    "keywords": "consumer, defective product, deficient service, complaint, refund",
+    "source_text": "The Consumer Protection Act, 2019 lets a consumer file a complaint against defective goods or deficient services before a District, State, or National Consumer Commission depending on the claim value, seeking refund, replacement, or compensation, without needing a lawyer for smaller claims."
+  },
+  {
+    "id": "rent-control",
+    "type": "act",
+    "title": "Model Tenancy Act, 2021 (& State Rent Control Laws)",
+    "keywords": "landlord, tenant, rent, security deposit, eviction, lease agreement",
+    "source_text": "Tenancy in India is governed by state Rent Control Acts, and increasingly the Model Tenancy Act, 2021 framework many states have adopted. A landlord must return the security deposit within the period fixed by the tenancy agreement or state law (commonly within one month of the tenant vacating), after deducting only for actual damage or unpaid dues. A tenant can approach the local Rent Authority or Rent Court to recover a wrongfully withheld deposit, and eviction can only happen through the process laid down in the applicable Act, not by force."
+  },
+  {
+    "id": "crpc-fir",
+    "type": "provision",
+    "title": "Section 154 CrPC — Filing an FIR",
+    "keywords": "FIR, police, refuse, cognizable offence, complaint",
+    "source_text": "Section 154 of the Code of Criminal Procedure requires police to register a First Information Report (FIR) for any cognizable offence reported to them, free of cost. If police refuse, the complainant can approach the Superintendent of Police in writing, or move the Magistrate under Section 156(3) CrPC, or file a private complaint."
+  },
+  {
+    "id": "case-kesavananda",
+    "type": "case",
+    "title": "Kesavananda Bharati v. State of Kerala (1973)",
+    "keywords": "basic structure doctrine, constitutional amendment, parliament power",
+    "source_text": "Facts: The case challenged Kerala land reform laws and, more broadly, Parliament's power to amend the Constitution, including Fundamental Rights. Reasoning: A 13-judge bench held that while Parliament has wide power to amend the Constitution under Article 368, it cannot alter its 'basic structure' — core features like democracy, rule of law, judicial review, and secularism. Outcome: This 'Basic Structure Doctrine' remains the most significant limit on constitutional amendments in India today."
+  },
+  {
+    "id": "case-vishaka",
+    "type": "case",
+    "title": "Vishaka v. State of Rajasthan (1997)",
+    "keywords": "sexual harassment, workplace, guidelines, POSH Act",
+    "source_text": "Facts: A social worker in Rajasthan was gang-raped while trying to prevent a child marriage, exposing the absence of any law on workplace sexual harassment. Reasoning: In the absence of legislation, the Supreme Court used Articles 14, 19, and 21 to lay down binding guidelines for preventing and redressing sexual harassment at the workplace. Outcome: These 'Vishaka Guidelines' governed workplace conduct until Parliament enacted the POSH Act, 2013."
+  },
+  {
+    "id": "case-puttaswamy",
+    "type": "case",
+    "title": "Justice K.S. Puttaswamy v. Union of India (2017)",
+    "keywords": "right to privacy, fundamental right, Aadhaar, data protection",
+    "source_text": "Facts: The case questioned whether privacy is a Fundamental Right, arising from a challenge to the Aadhaar biometric identity scheme. Reasoning: A 9-judge bench unanimously held that the right to privacy is intrinsic to the right to life and personal liberty under Article 21, and to the freedoms in Part III of the Constitution. Outcome: This judgment now underpins India's data protection framework and later rulings on personal autonomy."
+  },
+  {
+    "id": "case-maneka-gandhi",
+    "type": "case",
+    "title": "Maneka Gandhi v. Union of India (1978)",
+    "keywords": "personal liberty, passport, due process, fair procedure",
+    "source_text": "Facts: The government impounded Maneka Gandhi's passport without giving reasons. Reasoning: The Supreme Court held that any procedure depriving a person of life or liberty under Article 21 must be 'right, just and fair,' not arbitrary — linking Articles 14, 19, and 21 together. Outcome: This case transformed Article 21 from a narrow procedural safeguard into a guarantee of fair, non-arbitrary treatment, expanding the scope of personal liberty in India."
+  }
+]
