@@ -12,6 +12,9 @@ client = anthropic.Anthropic(api_key=API_KEY) if API_KEY else None
 MODEL = "claude-sonnet-4-6"
 
 app = FastAPI(title="Kanoon Wala API")
+@app.get("/")
+def home():
+    return {"message": "Kanoon Wala API is running"}
 
 app.add_middleware(
     CORSMiddleware,
