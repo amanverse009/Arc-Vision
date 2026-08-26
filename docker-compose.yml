@@ -1,0 +1,30 @@
+version: "3.9"
+
+services:
+  db:
+    image: ankane/pgvector:latest
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: kanoon_user
+      POSTGRES_PASSWORD: kanoon_pass
+      POSTGRES_DB: kanoon_wala
+    ports:
+      - "5432:5432"
+    volumes:
+      - kanoon_pg_data:/var/lib/postgresql/data
+
+  api:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+      - kanoon_documents:/data/user_documents
+
+volumes:
+  kanoon_pg_data:
+  kanoon_documents:
